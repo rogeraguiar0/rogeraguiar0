@@ -19,7 +19,4 @@
   <img height="48%" src="https://github-readme-stats.vercel.app/api?username=rogeraguiar0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeraguiar0&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  </div>
-<div>
-  ![Snake animation](https://github.com/rogeraguiar0/rogeraguiar0/blob/output/github-contribution-grid-snake.svg)
-</div>
+
