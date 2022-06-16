@@ -18,7 +18,7 @@
 <br>
 <div align="center">
   <a href="https://github.com/rogeraguiar0">
-  <img height="495px" src="https://github-readme-stats.vercel.app/api?username=rogeraguiar0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeraguiar0&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img width="495px" src="https://github-readme-stats.vercel.app/api?username=rogeraguiar0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeraguiar0&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
