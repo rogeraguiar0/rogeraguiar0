@@ -1,9 +1,9 @@
 ## Hey! Eu sou o Róger, bem vindo ao meu perfil
 
-- 💻 Formação (em andamento): Desenvolvedor Full Stack 
-- 📓 Estudando: HTML
-- ⚡ Fato engraçado: não sei andar de bicicleta ;)
+- 💻 Formação (em andamento): Desenvolvedor Full Stack
+- 📓 Estudando no momento: JavaScript
 - 📫 E-mail: aguiarroger02@gmail.com
+- ⚡ Fato engraçado: não sei andar de bicicleta ;)
 ***
 - Estou aprendendo:
 <div 
@@ -21,4 +21,3 @@
   <img width="495px" src="https://github-readme-stats.vercel.app/api?username=rogeraguiar0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img width="495px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeraguiar0&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
