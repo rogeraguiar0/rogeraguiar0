@@ -6,7 +6,9 @@
 - 📫 E-mail: aguiarroger02@gmail.com
 ***
 - Estou aprendendo:
-<div style="display: inline_block"><br>
+<div 
+     style="display: inline_block">
+  <br>
   <img align="center" alt="roger-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="roger-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="roger-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,9 +16,9 @@
 </div>
 <br>
 <br>
-<div flex-direction=row align-items="center">
+<div align="center">
   <a href="https://github.com/rogeraguiar0">
-  <img height="495px" width="195px" src="https://github-readme-stats.vercel.app/api?username=rogeraguiar0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="495px" width="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeraguiar0&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="495px" src="https://github-readme-stats.vercel.app/api?username=rogeraguiar0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeraguiar0&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
