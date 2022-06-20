@@ -1,4 +1,4 @@
-## Hey! Eu sou o Róger, bem vindo ao meu perfil
+## Hey! Eu sou o Róger, bem vindo ao meu perfil :)
 
 - 💻 Formação (em andamento): Desenvolvedor Full Stack
 - 📓 Estudando no momento: JavaScript
