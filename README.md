@@ -14,6 +14,8 @@
   <img align="center" alt="roger-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="roger-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+<br>
+<br>
 <div align=center>
   <a href="https://github.com/rogeraguiar0">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=rogeraguiar0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
