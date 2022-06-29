@@ -1,7 +1,7 @@
 <h1 align="left">Hey! Eu sou o Róger, e seja bem vindo(a) ao meu perfil!</h1>
 
 ###
-<img src="https://www.codewars.com/users/rogeraguiar0/badges/large" alt="codewars stats">
+<img src="https://www.codewars.com/users/rogeraguiar0/badges/small" alt="codewars stats">
 <p align="left">💻 Formação (em andamento): Desenvolvedor Full Stack<br>📓 Foco atual: JavaScript<br><br>📫 E-mail: aguiarroger02@gmail.com<br><br>⚡ Fato engraçado: não sei andar de bicicleta ;)</p>
 
 ###
