@@ -1,15 +1,14 @@
 <h1 align="left">Hey! Eu sou o Róger, e seja bem vindo(a) ao meu perfil!</h1>
 
 ###
-
+<img src="https://www.codewars.com/users/rogeraguiar0/badges/large" alt="codewars stats">
 <p align="left">💻 Formação (em andamento): Desenvolvedor Full Stack<br>📓 Foco atual: JavaScript<br><br>📫 E-mail: aguiarroger02@gmail.com<br><br>⚡ Fato engraçado: não sei andar de bicicleta ;)</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=true&username=rogeraguiar0" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=true&username=rogeraguiar0" height="130" alt="languages graph"  />
-  <img src="https://www.codewars.com/users/rogeraguiar0/badges/large" alt="codewars stats">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true&username=rogeraguiar0" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=true&username=rogeraguiar0" height="130" alt="languages graph"  />
 </div>
 
 ###
