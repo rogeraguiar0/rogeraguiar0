@@ -2,7 +2,9 @@
 <h1 align="center">Hello 👋, eu sou o Róger</h1>
 <h3 align="center">Desenvolvedor Full Stack em formação na Kenzie Academy Brasil</h3>
 <div align="center">
+  <br>
   <img src="https://www.codewars.com/users/rogeraguiar0/badges/large" alt="codewars stats">
+  <br>
 </div>
 
 ###
