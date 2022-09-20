@@ -1,7 +1,9 @@
 
 <h1 align="center">Hello 👋, eu sou o Róger</h1>
 <h3 align="center">Desenvolvedor Full Stack em formação na Kenzie Academy Brasil</h3>
-<img align="center" src="https://www.codewars.com/users/rogeraguiar0/badges/small" alt="codewars stats">
+<div align="center">
+  <img src="https://www.codewars.com/users/rogeraguiar0/badges/small" alt="codewars stats">
+</div>
 
 ###
 <p align="left">👾Working at: Kenzie Academy Brasil (Monitor)<br>📓 Foco atual: React<br><br>📫 E-mail: aguiarroger02@gmail.com<br><br>⚡ Fato engraçado: não sei andar de bicicleta ;)</p>
