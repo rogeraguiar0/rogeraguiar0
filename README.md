@@ -1,66 +1,32 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4C8eda&height=150&section=header"/>
 
-<h1 align="center">Hello 👋, eu sou o Róger</h1>
-<h3 align="center">Desenvolvedor Full Stack em formação na Kenzie Academy Brasil</h3>
-<div align="center">
-  <br>
-  <img src="https://www.codewars.com/users/rogeraguiar0/badges/large" alt="codewars stats">
-  <br>
-</div>
 
-###
-<p align="left">👾Working at: Kenzie Academy Brasil (Monitor)<br>📓 Foco atual: React<br><br>📫 E-mail: aguiarroger02@gmail.com<br><br>⚡ Fato engraçado: não sei andar de bicicleta ;)</p>
-
-###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4C8eda&size=35&center=true&vCenter=true&width=1000&lines=Hello!+Eu+sou+o+Róger!+:D)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=rogeraguiar0" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&username=rogeraguiar0" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=rogeraguiar0" width="49%" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&username=rogeraguiar0" width="49%" alt="languages graph"  />
 </div>
 
-###
+![Contribution](https://activity-graph.herokuapp.com/graph?username=rogeraguiar0&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&line=4C8EDA&area_color=1C2F45&color=4C8EDA&title_color=4C8EDA)
 
-<h3 align="left">Tecnologias que estou aprendendo:</h3>
+### Main Skills
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=Javascript&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
-###
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <br>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <br>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-</p>
+### Studying:
+![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-###
-
-<p align="left">Redes sociais:</p>
-
-###
-
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/rógeraguiar/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://instagram.com/rogerinho0234?igshid=YmMyMTA2M2Y=" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
-  </a>
 </div>
 
-###
-
-<br clear="both">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4C8eda&height=120&section=footer"/>
