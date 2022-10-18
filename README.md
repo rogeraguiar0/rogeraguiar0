@@ -29,4 +29,4 @@
   </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4C8eda&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4C8eda&height=150&section=footer&text=I'm+Batman&fontSize=15&fontColor=356194"/>
