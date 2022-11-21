@@ -4,7 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4C8eda&size=35&center=true&vCenter=true&width=1000&lines=Hello!+Eu+sou+o+Róger!+:D)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=rogeraguiar0&PAT_1" width="49%" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&username=rogeraguiar0" width="49%" alt="languages graph"  />
 </div>
 
