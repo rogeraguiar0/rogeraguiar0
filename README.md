@@ -26,6 +26,7 @@
 
 ### Back end:
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=jest&logoColor=BF3B16&labelColor=0D1117&textColor=0D1117)&nbsp;
 
