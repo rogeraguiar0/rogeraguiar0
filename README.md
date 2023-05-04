@@ -16,33 +16,50 @@
 <br/>
 <br/>
 
-### Front end:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwindcss-0D1117?style=for-the-badge&logo=Tailwindcss&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=Javascript&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
-
-### Back end:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=django&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=jest&logoColor=BF3B16&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-<br/>
-
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+<div align="center" style="witdh:100%"> 
+  <table>
+    <tr>
+      <td valign="center" width="100px"><b>Frontend<b></td>
+      <td valign="center" width="100px"><b>Backend<b></td>
+      <td valign="center" width="100px"><b>Dev<b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/HTML-4C8eda" /> 
+        <img src="https://img.shields.io/badge/CSS-4C8eda" />
+        <img src="https://img.shields.io/badge/JavaScript-4C8eda" /> 
+        <img src="https://img.shields.io/badge/TypeScript-4C8eda" />
+        <img src="https://img.shields.io/badge/Tailwind-4C8eda" /> 
+        <img src="https://img.shields.io/badge/React.js-4C8eda" />         
+        <img src="https://img.shields.io/badge/Next.js-4C8eda" /> 
+      </td>      
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/Python-4C8eda" /> 
+        <img src="https://img.shields.io/badge/Django-4C8eda" />
+        <img src="https://img.shields.io/badge/Node.js-4C8eda" /> 
+        <img src="https://img.shields.io/badge/Express-4C8eda" /> 
+        <img src="https://img.shields.io/badge/Nest.js-4C8eda" /> 
+      </td>
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/SQL-4C8eda" /> 
+        <img src="https://img.shields.io/badge/NoSQL-4C8eda" /> 
+        <img src="https://img.shields.io/badge/PostgreSQL-4C8eda" /> 
+        <img src="https://img.shields.io/badge/MongoDB-4C8eda" /> 
+        <img src="https://img.shields.io/badge/Docker-4C8eda" /> 
+        <img src="https://img.shields.io/badge/Jira-4C8eda" /> 
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/rógeraguiar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+    <img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" />
+  </a>
+  <a href="https://portfolio-nine-eta-93.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/fluency/2x/link.png" width="40" />
   </a>
 </div>
 
