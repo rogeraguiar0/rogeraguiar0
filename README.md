@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4C8eda&height=150&section=header"/>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4C8eda&size=35&center=true&vCenter=true&width=1000&lines=Hello!+Eu+sou+o+Róger!+:D)](https://git.io/typing-svg)
 
 <br/>
@@ -12,8 +11,6 @@
   <img aligh="right" src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&username=rogeraguiar0" width="45%" alt="languages graph"  />
 </div>
 
-<br/>
-<br/>
 <br/>
 
 <div align="center" style="witdh:100%"> 
