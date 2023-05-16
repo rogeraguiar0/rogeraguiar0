@@ -27,15 +27,19 @@
         <img src="https://img.shields.io/badge/JavaScript-4C8eda" /> 
         <img src="https://img.shields.io/badge/TypeScript-4C8eda" />
         <img src="https://img.shields.io/badge/Tailwind-4C8eda" /> 
-        <img src="https://img.shields.io/badge/React.js-4C8eda" />         
-        <img src="https://img.shields.io/badge/Next.js-4C8eda" /> 
+        <img src="https://img.shields.io/badge/React.js-4C8eda" />
+        <img src="https://img.shields.io/badge/React Native-4C8eda" />
+        <img src="https://img.shields.io/badge/Next.js-4C8eda" />
+        <img src="https://img.shields.io/badge/Figma-4C8eda" />
       </td>      
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/Python-4C8eda" /> 
         <img src="https://img.shields.io/badge/Django-4C8eda" />
         <img src="https://img.shields.io/badge/Node.js-4C8eda" /> 
-        <img src="https://img.shields.io/badge/Express-4C8eda" /> 
-        <img src="https://img.shields.io/badge/Nest.js-4C8eda" /> 
+        <img src="https://img.shields.io/badge/Express-4C8eda" />
+        <img src="https://img.shields.io/badge/Fastify-4C8eda" />
+        <img src="https://img.shields.io/badge/Nest.js-4C8eda" />
+        <img src="https://img.shields.io/badge/Redis-4C8eda" />
       </td>
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/SQL-4C8eda" /> 
@@ -43,7 +47,8 @@
         <img src="https://img.shields.io/badge/PostgreSQL-4C8eda" /> 
         <img src="https://img.shields.io/badge/MongoDB-4C8eda" /> 
         <img src="https://img.shields.io/badge/Docker-4C8eda" /> 
-        <img src="https://img.shields.io/badge/Jira-4C8eda" /> 
+        <img src="https://img.shields.io/badge/Jira-4C8eda" />
+        <img src="https://img.shields.io/badge/Linux-4C8eda" />
       </td>
     </tr>
   </table>
