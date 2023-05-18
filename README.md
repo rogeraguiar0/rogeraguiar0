@@ -60,7 +60,7 @@
   <a href="https://www.linkedin.com/in/rógeraguiar/" target="_blank">
     <img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" />
   </a>
-  <a href="https://portfolio-a52tddej2-rogeraguiar0.vercel.app/" target="_blank">
+  <a href="https://portfolio-gssp7p35a-rogeraguiar0.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/fluency/2x/link.png" width="40" />
   </a>
 </div>
