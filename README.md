@@ -43,7 +43,6 @@
         <img src="https://img.shields.io/badge/NoSQL-4C8eda" /> 
         <img src="https://img.shields.io/badge/PostgreSQL-4C8eda" />
         <img src="https://img.shields.io/badge/Redis-4C8eda" />
-        <img src="https://img.shields.io/badge/MongoDB-4C8eda" /> 
         <img src="https://img.shields.io/badge/Docker-4C8eda" /> 
         <img src="https://img.shields.io/badge/Jira-4C8eda" />
         <img src="https://img.shields.io/badge/Linux-4C8eda" />
